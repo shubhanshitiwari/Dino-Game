@@ -1,5 +1,5 @@
 Dino Game Replica
-
+![Screenshot 2024-08-13 190400](https://github.com/user-attachments/assets/7aa21d07-c82a-402f-a48b-4171a3de8d76)
 
 This project is a replica of the hidden Dinosaur Game from the Chrome browser’s offline mode. It’s built using the following technologies:
 
