@@ -375,7 +375,7 @@
 
 
 let board;
-let boardWidth = 600;
+let boardWidth = 800;
 let boardHeight = 180;
 
 let ctx;
@@ -398,7 +398,7 @@ let cat1Width = 30;
 let cat2Width = 30;
 
 let catHeight = 60;
-let catX = 600;
+let catX = 800;
 let catY = boardHeight - catHeight;
 
 let cat1Img;
