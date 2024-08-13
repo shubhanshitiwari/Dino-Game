@@ -480,8 +480,8 @@ function update() {
     ctx.fillStyle = "white";
     ctx.font = "18px courier";
     score++;
-    ctx.fillText("Score: " + score, 580, 20);
-    ctx.fillText("High Score: " + highScore, 370, 20);
+    ctx.fillText("Score: " + score, 680, 20);
+    ctx.fillText("High Score: " + highScore, 470, 20);
 
     // Request the next frame
     animationFrameId = requestAnimationFrame(update);
