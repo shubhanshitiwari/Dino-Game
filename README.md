@@ -3,9 +3,9 @@
 
 This project is a replica of the hidden Dinosaur Game from the Chrome browser’s offline mode. It’s built using the following technologies:
 
-## CSS
-## HTML
-## JavaScript
+### CSS
+### HTML
+### JavaScript
 
 You can play the game online here.
 
