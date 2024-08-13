@@ -1,0 +1,24 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background-image: url(https://wallup.net/wp-content/uploads/2016/01/61700-video_games-pixel_art.jpg);
+ opacity: 0.97;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+
+    
+}
+
+#board{
+    background: rgb(16, 2, 2);
+    /* background-image: url(https://wallup.net/wp-content/uploads/2016/01/61700-video_games-pixel_art.jpg); */
+    border: 1px solid black;
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+
+}
