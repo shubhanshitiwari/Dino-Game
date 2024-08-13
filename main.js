@@ -376,7 +376,7 @@
 
 let board;
 let boardWidth = 800;
-let boardHeight = 180;
+let boardHeight = 200;
 
 let ctx;
 
@@ -480,8 +480,8 @@ function update() {
     ctx.fillStyle = "white";
     ctx.font = "18px courier";
     score++;
-    ctx.fillText("Score: " + score, 480, 20);
-    ctx.fillText("High Score: " + highScore, 270, 20);
+    ctx.fillText("Score: " + score, 580, 20);
+    ctx.fillText("High Score: " + highScore, 370, 20);
 
     // Request the next frame
     animationFrameId = requestAnimationFrame(update);
